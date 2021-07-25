@@ -14,14 +14,16 @@ const Index = () => (
           <h2 data-testid="heading"><Link to="/">Welcome 欢迎</Link></h2>
         </div>
       </header>
-      <p> Welcome to my website. It was inspired and built on the backs of people who are way more creative and smart at website building than me. And while I
-      hate not being original, I mean, only truly great pieces of art happen to be original, right? Anyways, feel free to read more
-        <Link to="/about">about me</Link>, or check out my {' '}
+      <p> Welcome to my website! I wanted to outsource my existence so that the world could learn more about me.
+      Anyways, feel free to read more
+        <Link to="/about"> about me</Link>, check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">stalk me</Link>.
       </p>
+      <h2>Come on you're not even alive, if you're not backed up on a drive - Grimes in "We Appreciate Power"</h2>
+      <h2>Nobody should be alone if they don't have to be - Britney Spears in "Do you want to come over?"</h2>
     </article>
   </Main>
 );
