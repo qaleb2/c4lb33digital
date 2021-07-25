@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "c4lb33digital",
   "version": "3.0.1",
   "homepage": "https://qalbii.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/qaleb2/c4lb33digital.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
