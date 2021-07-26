@@ -23,7 +23,6 @@ const Index = () => (
         or <Link to="/contact">stalk me</Link>.
       </p>
       <h2>Come on you're not even alive, if you're not backed up on a drive - Grimes in "We Appreciate Power"</h2>
-      <h2>Nobody should be alone if they don't have to be - Britney Spears in "Do you want to come over?"</h2>
     </article>
   </Main>
 );

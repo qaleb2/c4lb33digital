@@ -1,37 +1,44 @@
 
 # Intro
 
-I am currently about to start the program at Boston University studying Mathematical Finance. I don't really know what else to tell you about myself lol. I will put information here so you can learn about me though.
-
-# Currently
+I am currently about to start the program at Boston University studying Mathematical Finance. I chose this direction because it was a combination between coding, pure math, and statistics, and I couldn't decide between any of the three, so i chose all three. Omne Trium Perfectum, amirite? So far I think I'm barely remarkable in any of the three, but I'm hoping the MSMFT program will change that. As for the Finance aspect of the program, I'm not terribly interested in it and only see it as a necessary step towards becoming a quant.
 
 
+# Some Background about me as a person i guess
 
-# Some history
-
-
-
-# I like
-
-
-# Travel / Geography
-
-
-
-# Fun facts
-
-
-
-# I dream of
+- I was born in California in 1999, and grew up in China from roughly 2001 till roughly 2013, so I'll be able to say I spent roughly half my life in China and roughly half in the US for one or two more years, roughly.
+- I transferred schools 5 times between kindergarten and 5th grade. Went to American International School of Guangzhou from 5th grade till the first semester of 8th grade, came to the US and went to school for the second semester of 8th grade at Great Neck South High School till graduation in 2017.
+- I have about equal amounts of English speaking and Chinese speaking friends, and I've had periods of hanging out with one of the two groups more than the other, which would usually drag around my fluency in the one of the two languages.
 
 # About the creation of website:
 
-It was based quite heavily on projects of people who I think are more creative and smarter at website building than me. And while I
-hate not being original, i feel like only truly great pieces of art happen to be original, right?
-
+This website was based quite heavily on projects of people who I think are more creative and smarter at website building than me. And while I
+hate not being original, I feel like only truly great pieces of art happen to be original, right?
 I started out trying to create everything from scratch. This was how far I got. (insert link to old webby) Then I gave up because it was too much work to learn
-everything, so instead i tried to reverse engineer Michael D'Angelo's (insert link) website which actually ended up being quite some work as well. I had previously taken some html, css, and js two years ago. That didn't come too handy tbh, had to basically learn everything including github. I don't think i am going to be too big in UI and web design, but I will make this website my own little world. There are some things you can explore around that you might find cool. For example, the period to this sentence will lead to my personal website.
+everything, so instead I tried to reverse engineer [Michael D'Angelo's website ](https://mldangelo.com/) which actually ended up being quite some work as well. I had previously taken some html, css, and js two years ago, but that didn't come terribly in handy tbh, so i had to basically re-learn everything including github. I don't think i am going to be too big in UI and web design, but this is a fun little project. There are some things you can explore around that you might find cool. For example, the period to this sentence will lead to my personal website.
 
-# Websites from people I admire
+# Hobbies
+Sigh. Idk, i feel like in order to participate in humble brag competitions with my peers that I have been noticing since elementary school (and still notice, unfortunately,) I should try to be as arrogant as possible, but really, what's the point. Life really isn't about an individual being better than others. So I'll try to make it as objective as possible, and include some of my thought processes.
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+- **Piano**: Started playing since I was 5. Stopped playing sometime in middle school cuz i was forced. Picked it back up in high school after watching kousei play ballade in the end. I actually learned Ballade and played it at Carnegie Hall. Kinda had a love hate relationship with it throughout my life. I think I might pick it back up in my 30s or when i start working mid 20s maybe, like the mid 30s pianist in Haruki Murakami's Norwegian Wood. In fact my relationship with piano feels quite similar to hers.
+  - I passed ABRSM level 5 and NYSSMA level 6. Man I definitely could have passed ABRSM level 8 when i tried for it the second time in sophomore year in college. I think I think I only needed a few more points, and I definitely had enough time to practice, but I was in the stupid immature High School mindset that not really putting in effort = being cool. In my mind i was a genius suffering by his own lack of discipline, but really I was just an idiot unaware of how large life is.
+
+- **Guitar**: Started self learning in college, here and there. Picked up quite a few songs, some of them just chords, other ones finger style, and still others just pieces of solos. One of my favorite pieces is In the Mood for Love by Julie London. One of my favorite solos is the one in Something by the Beatles. Kinda interesting how the way I took to learning guitar pieces is similar to how I learn piano pieces. Just mechanical grinding, up to knowing how to play it, then adding the personality to it by playing it with feeling. Pieces always tend to become pretty dry before i can get too far into the latter part though.
+
+- **Trumpet**: Been playing from 6th grade till graduation. I know how to play Blue Room by Chet Baker. It's quite a nice instrument. At first i didn't really like it because it wasn't "one of the cool and popular instruments" like piano or guitar, but I soon realized that just like how people who love languages don't learn them because they're useful, people who love music don't learn instruments because they are cool or popular or good for showing off.
+  - Lol i think i passed one of the NYSSMAs? I'm not sure though, but i was in Jazz band which was kinda honors band i guess.
+
+- **Working Out**: Started in College, been in and out of memberships. Trying to continue in graduate school. Met a friend or two working out. I wanted to work out as a confidence booster at first, but I kind of want to transition into a martial art, like Muay Thai, in graduate school to destress. I want to get to 6 plates for deadlift, and 4 plates bench press. Don't really care about squat though, because imo I play soccer and thats enough?
+  - PRs: Deadlift: 230LBs, Squat: Idk, Benchpress: 155LBs
+
+- **Soccer**: Been playing in and out. Hopefully once in a while in graduate school. Usually play center. I think my effort while playing is quite inconsistent, actually. When I feel like I've proven myself is usually when I stop trying. Favorite player is Ngolo Kante.
+
+- **Initiating Conversations With Strangers**: This is something I've been pushed to do because I felt excluded by my siblings as a kid. So I got used to talking to strangers and becoming friendly with them, and being the one to talk first. Usually only when I have confidence though. But overtime I've learned to enjoy this hobby. I was destroyed in chess by this super arrogant and overall pretty brash but pretty likeable 74 year old, then immediately followed by this junior actuarial analyst I think at Milliman Cigna or AIG i forgot. He was a few years older than me. At the time I had wanted to be an actuary and I remember asking him about internships and stuff. I actually stalked long enough to find his linkedin profile but didn't connect. Forgot his name. I feel like this hobby sort of inspired me to work at Starbucks March till July of 2021. I got to meet a lot of customers and my coworkers. I think what really draws me in about his hobby is the idea of getting closer to reality. Of course, not all interactions with strangers are genuine but I usually kinda feel like theres nothing to lose.
+
+- **Reading**: This is definitely a pretty recent hobby, at least recent as in started a few years ago. I was never a reader but near end of college, some friends I hung out with had some nice book recommendations, and the whole idea of reading re-presented itself to me as something niche and cultured. Some of the more memorable books I've read when this hobby basically started 4 years ago include the The Three Body Problem (三体) trilogy，Norwegian Wood (挪威森林) translated to Chinese (because i felt like the Chinese version would be closest to the Japanese version), and Crime and Punishment. Currently reading Snow Country (雪国) also translated to Chinese. Haven't gotten far at all though.
+
+- **Listening to Music**: Music has always been a nice source for learning about the world. I think if I lost the ability to enjoy music I'd probably lose a lot of my memories as well. My embryonic music tastes were mostly influenced by my older sister, who listened to pretty much everything that existed. Im pretty sure she knew the totality of everything pop culture related in the 2010s. She listened to everything from Lupe Fiasco to Bruno Mars to Nine Inch Nails to Avril Lavigne, and 周杰伦，陈奕迅，as well as Stromae. In middle school, I played Call Of Duty, which went hand in hand with the golden era of dubstep. So naturally, I listened to Skrillex, Knife party, Noise Storm, and got into EDM. I would look up stuff like top 100 DJs on dj magazine, and hardest bass drop songs list. At the same time, this was when my family had freshly moved to the US, so I had a curiosity and somehow felt nostalgia for old rock and roll bands like Queen, Beatles, Guns n Roses, and Lynrd Skynrd. I became fascinated with rock and roll solos, looking up things like top 100 solos in rock and roll or the Rolling Stone top 100 rock artists rankings. Further into high school, I started watching anime and was introduced to a mixture between jrock and edm/techno since these genres were in a lot of Openings and Endings. Being in band, I also started getting into big band music, like Glenn Miller, Duke Ellington, etc. And around this time, I also had a nostalgia motivated fascination with really old soul music like Frank Sinatra and Ella Fitzgerald. Around high school was also when I got back into piano and classical music, this time listening to Rachmaninoff, got more into Chopin, Liszt, Dvorak, Tchaikovsky. Was also a HUGE fan of Gershwin, who arguably needed his own genre. I actually learned 2nd piano in rhapsody in blue and Rachmaninoff piano concerto 2. Did not perfect either though. In the first few years in college, I got even deeper into classical music, listening to Wagner, Mahler, Ravel, and Grieg. I also got really into Jazz because of my ex girlfriend, Katelyn who really liked Bill Evans. Started listening to Bill Evans, Chet Baker, and got back into big band music. In the latter years of college, I got more into a bunch of alternative music, influenced mainly by two friends, Aiden and Qing. Qing mostly listened to ambient music and techno, and I quickly gained a liking I think because I previously listened to dubstep and edm. Aiden mostly listened to Jazzy Hip Hop, but its hard to narrow down the genre, as I don't even know what it's called. Some of his artists include Planet Shrooms, Flatbush Zombies, Childish Gambino, Doja Cat, Kanye West, and a bunch of lesser known jazzy/hip hop artists. I guess his hip hop artists don't use traditional basic chords in their songs. Very NYC music taste if you ask me.
+
+- **Visiting Secluded Places**: Throughout high school and college I spent a lot of time alone, and liked going to places where there were not that many people to be alone with my thoughts. These places usually nature related, or look somewhat aesthetic enough to lull me over. Some examples include steppingstone park in great neck, or generally just parks near bodies of water in nyc.
+
+- **Writing**: I have kept a diary for quite a while, and i find it pretty calming to express my thoughts. I think I wanna be a writer someday. Feel free to  visit the writing section of this website!
