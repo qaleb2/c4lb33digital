@@ -18,9 +18,9 @@ const Index = () => (
       Anyways, feel free to read more
         <Link to="/about"> about me</Link>, check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">stalk me</Link>.
+        <Link to="/writing">writing</Link>, {' '}
+        view <Link to="/stats">statistics</Link>, {' '}
+        or <Link to="/contact">contact me</Link>.
       </p>
       <h2>Come on you're not even alive, if you're not backed up on a drive - Grimes in "We Appreciate Power"</h2>
     </article>

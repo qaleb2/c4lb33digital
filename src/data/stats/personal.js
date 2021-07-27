@@ -21,18 +21,28 @@ const Age = () => {
 const data = [
   {
     key: 'age',
-    label: 'Current age',
+    label: 'Current age:',
     value: <Age />,
   },
   {
     key: 'hometown',
-    label: 'Hometown, depending on whos asking',
+    label: 'Hometown (Depending on whos asking):',
     value: 'Guangzhou or NYC',
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Current City:',
     value: 'New York, NY',
+  },
+  {
+    key: 'height',
+    label: 'Height:',
+    value: '170 cm or 5 feet 7 inches',
+  },
+  {
+    key: 'weight',
+    label: 'Weight:',
+    value: '67 kg or 148 LBS',
   },
 ];
 
