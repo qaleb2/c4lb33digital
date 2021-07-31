@@ -7,12 +7,11 @@ const Cell = ({ data }) => (
     <article className="mini-post">
 
       <header>
-        <h3>{data.title}</h3>
+        <h3><a href={data.link} src={process.env.PUBLIC_URL + data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-
-      <div className="post">
-        <h>{data.subtitle}</h>
+      <div className="box">
+        <h>{data.desc}</h>
       </div>
 
     </article>
@@ -22,6 +21,7 @@ const Cell = ({ data }) => (
 Cell.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
+    link: PropTypes.string,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string,
   }).isRequired,
