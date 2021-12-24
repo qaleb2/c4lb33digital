@@ -14,6 +14,13 @@ Do npx kill-port 3000 to kill previous port after done.
 
 Some changes automatically update in localhost3000
 
+routes.js is the main hub to control and remove everything 
+/Users/Caleb/c4lb33digital/src/data/routes.js
+
+for front page link
+/Users/Caleb/c4lb33digital/src/data/Index.js 
+
+
 
 https://docs.npmjs.com/cli/v7/commands/npm-start
 
