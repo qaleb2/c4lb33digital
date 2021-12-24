@@ -1,3 +1,3 @@
 # Personal Website
 
-My personal website.
+My personal website. Both Professional and Personal
