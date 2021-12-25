@@ -25,9 +25,14 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:c4lb33@gmail.com',
+    link: 'mailto:cqi2@bu.edu',
     label: 'Email',
     icon: faEnvelope,
+  },
+  {
+    link: 'https://twitter.com/caleb_qi1',
+    label: 'Twitter',
+    icon: faTwitter,
   },
 ];
 

@@ -32,17 +32,17 @@ const data = [
   {
     key: 'location',
     label: 'Current City:',
-    value: 'New York, NY',
+    value: 'Boston, MA',
   },
   {
     key: 'height',
     label: 'Height:',
-    value: '170 cm or 5 feet 7 inches',
+    value: '170.1 cm or 5 feet 7 inches',
   },
   {
     key: 'weight',
     label: 'Weight:',
-    value: '67 kg or 148 LBS',
+    value: '70.3 kg or 155 LBS',
   },
 ];
 

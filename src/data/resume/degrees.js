@@ -3,7 +3,7 @@ const degrees = [
     school: 'Boston University',
     degree: 'M.S. Mathematical Finance and Financial Technology',
     link: 'https://www.bu.edu/',
-    year: 2022,
+    year: 2023,
   },
   {
     school: 'Binghamton University',

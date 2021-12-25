@@ -1,5 +1,16 @@
 const courses = [
   {
+    title: 'Stochastic Methods of Mathematical Finance (Stochastic Methods of Asset Pricing, Andrew Lyassoff)',
+    number: 'QST 795',
+    university: 'Boston',
+  },
+  {
+    title: 'Fundamentals of Finance (Fundamentals of Futures and Options Markets, John C Hull)',
+    number: 'QST 702',
+    university: 'Boston',
+  },
+
+  {
     title: 'Modern Algebra I(Algebra in Action, Shahriar Shahriari)',
     number: 'MATH 401',
     university: 'Binghamton',

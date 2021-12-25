@@ -3,28 +3,23 @@
 
 const skills = [
   {
-    title: 'Vanilla R',
+    title: 'R',
+    competency: 5,
+    category: ['Programming/Application'],
+  },
+  {
+    title: 'Python',
+    competency: 5,
+    category: ['Programming/Application'],
+  },
+  {
+    title: 'C++',
     competency: 4,
     category: ['Programming/Application'],
   },
   {
-    title: 'Vanilla Python',
-    competency: 3,
-    category: ['Programming/Application'],
-  },
-  {
-    title: 'Vanilla Java',
+    title: 'Java',
     competency: 2,
-    category: ['Programming/Application'],
-  },
-  {
-    title: 'R Packages&Libraries',
-    competency: 4,
-    category: ['Programming/Application'],
-  },
-  {
-    title: 'Python Packages&Libraries',
-    competency: 3,
     category: ['Programming/Application'],
   },
   {

@@ -13,13 +13,15 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Caleb Qi  祁乐</h2>
-        <p><a href="c4lb33@gmail.com">c4lb33@gmail.com</a></p>
+        <p><a href="cqi2@bu.edu">cqi2@bu.edu</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Im just a kid that doesn't know what he wants to do.
+      <p> "We're all going to die, all of us, what a circus! That alone should make
+            us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by
+            nothing.” - Charles Bukowski
       </p>
       <ul className="actions">
         <li>
