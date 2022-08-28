@@ -11,6 +11,7 @@ const { PUBLIC_URL } = process.env;
 const About = lazy(() => import('./pages/About'));
 const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
+const Projects = lazy(() => import('./pages/Projects'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Writing = lazy(() => import('./pages/Writing'));
 const Resume = lazy(() => import('./pages/Resume'));
@@ -24,6 +25,7 @@ const App = () => (
         <Route path="/about" component={About} />
         <Route path="/writing" component={Writing} />
         <Route path="/stats" component={Stats} />
+        <Route path="/projects" component={Projects} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route component={NotFound} status={404} />
