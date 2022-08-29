@@ -1,14 +1,15 @@
 const positions = [
   {
-    company: 'Pairs Trading Final Project',
-    position: 'Project Lead',
-    link: 'https://github.com/qaleb2/PairsTrading',
-    daterange: 'October 2021 - December 2021',
+    company: 'VanEck',
+    position: 'Quantitative Investment Solutions Intern',
+    link: 'https://www.vaneck.com/us/en/',
+    daterange: 'June 2022 - August 2022',
     points: [
-      'Researched and Implemented a mean-reverting pairs trading algorithm in Python using 6 months of intraday data obtained with the Bloomberg Terminal API',
-      'Created a backtesting coding framework with object-oriented programming to optimize algorithm parameters with a train test split',
+      'Created a risk metric visualization web app for portfolio risk management mainly using Dash/Plotly and SQL',
+      'Performed macro-level research on the Federal Reserve Bank balance sheet',
     ],
   },
+
   {
     company: 'Bloomberg Trading Challenge',
     position: 'Trader',

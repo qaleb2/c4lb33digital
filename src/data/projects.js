@@ -14,37 +14,48 @@ const data = [
 
   {
     title: 'Predicting Loan Default With Random Forest',
-    desc: 'Predicting Loan Default With Random Forest',
+    desc: ' Credit loan default prediction project using R. The data consisted of 35 variables, a mixture of categorical \
+    and numerical. After preprocessing by plotting and cleaning up nonsensical data, I started with a simple linear \
+    regression model, then worked my way to random forest. Throughout the process, I slowly improved the F1 score by \
+    doing resampling, variable selection, and testing different parameters for different models. Through playing with \
+    the data, I was also able to create a new variable called age at first disbursement, by combining disbursal amount \
+    and date of birth, which contributed more information to the model. Lastly, I wrote my analysis up into a report \
+    using R Markdown. ',
     date: '2022-03-26',
     link: '/projects/MidtermProject.pdf',
   },
 
   {
-    title: 'Advanced Programming Final Project',
-    desc: 'Classifying Cryptocurrency Pairs With K Means',
+    title: 'Data Analysis of Binance Trade History Using K Means',
+    desc: 'This paper proposes a data analysis methodology using Pyspark and Google Cloud. The data set we deal with \
+    comes from Binance exchange, which contains the trade history of all trading pairs of cryptos. First, we examine \
+    the structure and assess complexity of the data, highlighting the difficulties we may encounter. Then, we use \
+    pyspark for processing the data and transferring the original data into tidy data. We also apply Pyspark SQL \
+    query for data manipulation and obtain some basic statistical information of the data. Finally, we use pyspark \
+    to implement the K-means method, with the aim of exploring and classifying the market behaviors in cryptos.',
     date: '2022-05-5',
     link: '/projects/810project.pdf',
   },
 
   {
-    title: 'Advanced Machine Learning Final Project',
-    desc: 'Mutual Fund Style Classification From Prospectus With Natural Language Processing',
+    title: 'Mutual Fund Style Classification From Prospectus With Natural Language Processing',
+    desc: 'This paper applies Natural Language Processing (specifically the word2vec skip-gram deep learning model) \
+    to mutual fund summary texts to be able to predict the investment style a fund uses. A knowledge base is created \
+    by using the most commonly occurring words unique to each type of fund. Then, we form the two possible inputs for \
+    our modeling: (1) the minimum distance between the vectorized sentences and the knowledge base, and (2) the vector \
+    representation of the most representative sentences. For input of type (1) we applied a Random Forest, and for inputs\
+    of type (2) we applied a convolutional neural network. ',
     date: '2022-05-6',
     link: '/projects/mf815_final_project.pdf',
   },
 
   {
     title: 'Fixed Income Final Project',
-    desc: 'Yield Curve Construction: Exploring Interpolation Methodology',
+    desc: 'We implement and assess the following four interpolation methods: raw interpolation, natural cubic spline \
+    interpolation, cubic B-spline interpolation, and monotone convex interpolation (Hagan-West method). Methods are \
+    assessed based on whether the forwards are positive, their continuity, stability, and locality.',
     date: '2022-05-6',
-    link: '/projects/mf815_final_project.pdf',
-  },
-
-  {
-    title: 'Options Pricing Under the Numerical Heston PDE ',
-    desc: 'Pricing ',
-    date: '2022-05-5',
-    link: '/projects/796_Final_Project Paper.pdf',
+    link: '/projects/Yield_Curve Construction.pdf',
   },
 
 

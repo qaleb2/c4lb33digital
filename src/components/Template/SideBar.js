@@ -18,7 +18,7 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
+      <h2>Quote I Really Like</h2>
       <p> "We're all going to die, all of us, what a circus! That alone should make
             us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by
             nothing.” - Charles Bukowski

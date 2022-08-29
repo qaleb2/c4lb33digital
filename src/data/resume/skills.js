@@ -14,7 +14,7 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 4,
+    competency: 2,
     category: ['Programming/Application'],
   },
   {
