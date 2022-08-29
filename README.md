@@ -21,7 +21,12 @@ routes.js is the main hub to control and remove everything
 for front page link
 /Users/Caleb/c4lb33digital/src/data/Index.js 
 
-
+Github Notes:
+1. cd c4lb33digital
+2. git add .
+3. git status
+4. git commit -m 'notes for changes'
+5. git push
 
 https://docs.npmjs.com/cli/v7/commands/npm-start
 
