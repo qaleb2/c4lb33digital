@@ -12,7 +12,8 @@ First set cd to c4lb33digital, then do npm start to start localhost 3000.
 Make changes and save them. Do npm restart and start in a new port
 Do npx kill-port 3000 to kill previous port after done. 
 
-Some changes automatically update in localhost3000
+Some changes automatically update in localhost3000.
+Certain changes, like in the about me file, need restart to update in localhost3000
 
 routes.js is the main hub to control and remove everything 
 /Users/Caleb/c4lb33digital/src/data/routes.js
