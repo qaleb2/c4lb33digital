@@ -5,7 +5,10 @@
 
 # Current Goals
 - I am currently trying hard to find a full time job during Quantitative Tightening. 
-- I am also working on a Boston Blue Bike data analysis project to figure out how I can incorporate biking into my daily routine
+- I am also working on a Boston Blue Bike data analysis project to figure out when the Griggs Street bike station will have availability so I can incorporate biking into my daily routine optimally. Currently, whenever I leave the house the bike station always has no bikes. 
+- I am also working on a trading bot that implements pairs trading with the TD Ameritrade API
+
+
 # Some Background about me
 
 - I was born in San Francisco in 1999, and grew up in China from 2000 till 2012. So I spent roughly half my life in China and half in the US.
