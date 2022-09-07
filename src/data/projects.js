@@ -1,5 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
+
+  {
+    title: 'Blue Bikes Data Analysis',
+    desc: 'This project was inspired by the recent free month implemented by Blue Bikes due to the MBTA Green Line \
+    service being down. Last year I had ridden blue bikes a lot and often ran into the problem of not being able to \
+    find bikes at the stations closest to me and not being able to find docks at stations near my destination once \
+    I arrived. The goal of this project was to gain some insight on the ridership flow throughout the year, and \
+    throughout the day, to better make commute decisions.',
+    date: '2022-05-6',
+    link: 'https://rpubs.com/qaleb2/938466',
+  },
+
   {
     title: 'Predicting Russell 3000 Market States with Neural Networks',
     desc: 'In this paper we implemented a neural network approach to predicting market states and a trading strategy \
@@ -57,7 +69,6 @@ const data = [
     date: '2022-05-6',
     link: '/projects/Yield_Curve Construction.pdf',
   },
-
 
 
 ];
