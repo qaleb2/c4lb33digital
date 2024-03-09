@@ -32,7 +32,7 @@ const data = [
   {
     key: 'location',
     label: 'Current City:',
-    value: 'Boston, MA',
+    value: 'Stamford, CT',
   },
   {
     key: 'height',
