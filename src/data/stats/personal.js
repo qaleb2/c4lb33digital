@@ -27,12 +27,12 @@ const data = [
   {
     key: 'hometown',
     label: 'Hometown (Depending on whos asking):',
-    value: 'Guangzhou or NYC',
+    value: 'Great Neck, NY',
   },
   {
     key: 'location',
     label: 'Current City:',
-    value: 'Boston, MA',
+    value: 'Stamford, CT',
   },
   {
     key: 'height',
@@ -42,7 +42,7 @@ const data = [
   {
     key: 'weight',
     label: 'Weight:',
-    value: '70.3 kg or 155 LBS',
+    value: '70.3 kg or 150 LBS',
   },
 ];
 
